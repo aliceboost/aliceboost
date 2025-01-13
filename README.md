@@ -1,7 +1,7 @@
-# Welcome to my profile
+# Alice Boström
 
-Student in software development
+Student in software development.
 
-Languages: Python, HTML, CSS, JavaScript, PHP, SQL and C#
+Languages: Python, HTML, CSS, JavaScript, PHP, SQL and C#.
 
-This profile is currently used for school projects
+This profile is currently used for school projects.
